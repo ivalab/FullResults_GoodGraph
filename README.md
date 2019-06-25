@@ -7,12 +7,16 @@
 - UZH FPV Stereo-Inertial http://rpg.ifi.uzh.ch/uzh-fpv.html
 
 ### VO/VSLAM/VINS Systems Assessed
+
+Vision-only Systems:
 - GF-ORB-SLAM Stereo with Good Graph BA [https://github.com/YipuZhao/gf_orb_slam2]
 - GF-ORB-SLAM Stereo with sliding window BA [same as above]
 - GF-ORB-SLAM Stereo with co-visiblity BA [same as above]
 - GF-ORB-SLAM Stereo with Canonical Local BA [same as above]
 - ORB-SLAM Stereo with Canonical Local BA [same as above]
-- SVO Stereo & Stereo https://github.com/YipuZhao/rpg_svo
+- SVO Stereo https://github.com/YipuZhao/rpg_svo
+
+Visual-Inertial Systems:
 - VINS-Fusion https://github.com/YipuZhao/VINS-Fusion
 - ICE-BA https://github.com/YipuZhao/ICE-BA
 - MSCKF Stereo https://github.com/YipuZhao/msckf_vio
