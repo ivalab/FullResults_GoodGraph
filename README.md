@@ -9,7 +9,7 @@
 ### VO/VSLAM/VINS Systems Assessed
 
 Vision-only Systems:
-- GF-ORB-SLAM Stereo with Good Graph BA [https://github.com/YipuZhao/gf_orb_slam2]
+- GF-ORB-SLAM Stereo with Good Graph BA [https://github.com/ivalab/gf_orb_slam2]
 - GF-ORB-SLAM Stereo with sliding window BA [same as above]
 - GF-ORB-SLAM Stereo with co-visiblity BA [same as above]
 - GF-ORB-SLAM Stereo with Canonical Local BA [same as above]
@@ -22,3 +22,18 @@ Visual-Inertial Systems:
 - MSCKF Stereo https://github.com/YipuZhao/msckf_vio
 
 Compared to the official repos, the baseline methods in my repo are with explicit logging on pose tracking and time cost.
+
+
+## References
+
+	@article{zhao2019graph,
+	  title={Good Graph to Optimize: Budget-Aware, Cost-Effective Bundle Adjustment in Visual SLAM},
+	  author={Zhao, Yipu and Vela, Patricio A.},
+	  journal={submitted to IEEE Robotics and Automation Letters},
+	  year={2019}
+	}	
+
+## Contact information
+
+- Yipu Zhao		yipu.zhao@gatech.edu
+- Patricio A. Vela	pvela@gatech.edu
