@@ -27,7 +27,7 @@ Compared to the official repos, the baseline methods in my repo are with explici
 ## References
 
 	@article{zhao2019graph,
-	  title={Good Graph to Optimize: Budget-Aware, Cost-Effective Bundle Adjustment in Visual SLAM},
+	  title={Good Graph to Optimize: Cost-Effective, Budget-Aware Bundle Adjustment in Visual SLAM},
 	  author={Zhao, Yipu and Vela, Patricio A.},
 	  journal={submitted to IEEE Robotics and Automation Letters},
 	  year={2019}
