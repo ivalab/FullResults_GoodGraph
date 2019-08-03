@@ -29,7 +29,7 @@ Compared to the official repos, the baseline methods in my repo are with explici
 	@article{zhao2019graph,
 	  title={Good Graph to Optimize: Cost-Effective, Budget-Aware Bundle Adjustment in Visual SLAM},
 	  author={Zhao, Yipu and Vela, Patricio A.},
-	  journal={submitted to IEEE Robotics and Automation Letters},
+	  journal={submitted to IEEE Transactions on Robotics},
 	  year={2019}
 	}	
 
