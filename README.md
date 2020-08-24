@@ -26,7 +26,7 @@ Compared to the official repos, the baseline methods in my repo are with explici
 
 ## Closed-loop Evaluation
 
-### Devices
+### Device
 - Laptop (passmark 2140, 15W) https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-8550U+%40+1.80GHz&id=3064
 
 ### Benchmark
